@@ -5,13 +5,13 @@ This is my personal portfolio, showcasing my skills, projects, and experience in
 Projects
 
 
-Job Application App
+Job Application App ----
 A Django web application that allows users to create job applications, track their progress, and manage their job search effectively.
 
-Django E-Commerce
+Django E-Commerce ----
 This is an e-commerce platform built using Django, allowing users to browse products, add them to their cart, and place orders securely. It includes features such as user authentication, product management, order tracking, and payment integration.
 
-Student Management Panel
+Student Management Panel ----
 A student management panel built using Django, HTML, CSS, and Bootstrap, providing functionalities for managing student data, courses, and grades.
 
 

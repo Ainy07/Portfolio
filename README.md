@@ -18,11 +18,11 @@ A student management panel built using Django, HTML, CSS, and Bootstrap, providi
 
 Skills
 
-Python
-Django
-HTML
-CSS
-Bootstrap
+Python,
+Django,
+HTML,
+CSS,
+Bootstrap,
 API Integration
 
 

@@ -35,5 +35,5 @@ Managed databases and implemented data models using Django ORM for efficient dat
 
 Contact
 
-Feel free to reach out to me at your-ainygupta503@email.com for any inquiries or collaboration opportunities.
+Feel free to reach out to me at ainygupta503@email.com for any inquiries or collaboration opportunities.
 
